@@ -52,6 +52,7 @@
 .todo__listText {
   height: 40px;
   margin: 5px;
+  display: inline;
 }
 
 .checkOff {
@@ -59,9 +60,9 @@
   border: 2px solid grey;
   border-radius: 50%;
   display: inline-block;
-  height: 30px;
+  height: 25px;
   overflow: hidden;
-  width: 30px;
+  width: 25px;
 }
 
 .checkOff:hover {
